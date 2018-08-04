@@ -1,0 +1,69 @@
+2018-07-14 12:41:51,437 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-14 12:43:14,156 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\pom.xml
+2018-07-14 12:43:17,174 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AdvanceProject:HotelReservation:0.0.1-SNAPSHOT @ C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\pom.xml.
+2018-07-14 12:43:17,872 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelReservation/src/main/java
+2018-07-14 12:43:17,878 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HotelReservation/src/test/java
+2018-07-14 12:43:18,537 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-07-14 12:43:19,099 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:43:19,100 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\main\resources
+2018-07-14 12:43:19,102 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:43:19,102 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 12:43:57,978 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:43:57,978 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\main\resources
+2018-07-14 12:43:57,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:43:57,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 12:44:29,894 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:29,903 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 12:44:29,914 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:29,914 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 12:44:37,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:37,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 12:44:37,493 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:37,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 12:44:47,998 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:48,002 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 12:44:48,017 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 12:44:48,024 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 13:01:51,041 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:01:51,044 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 13:01:51,050 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:01:51,056 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 13:01:54,658 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:01:54,659 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 13:01:54,666 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:01:54,671 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 13:04:06,914 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AdvanceProject:HotelReservation:0.0.1-SNAPSHOT @ C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\pom.xml.
+2018-07-14 13:04:07,182 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:04:07,188 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 13:04:07,195 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:04:07,200 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 13:04:08,364 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:04:08,371 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 13:04:08,377 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 13:04:08,382 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:38:06,136 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AdvanceProject:HotelReservation:0.0.1-SNAPSHOT @ C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\pom.xml.
+2018-07-14 16:38:06,480 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:38:06,488 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 16:38:06,488 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:38:06,488 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:38:08,530 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:38:08,530 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 16:38:08,530 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:38:08,530 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:41:49,662 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:41:49,677 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-14 16:41:49,709 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:41:49,709 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:41:58,799 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:41:58,799 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-14 16:41:58,799 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:41:58,799 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:43:42,404 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AdvanceProject:HotelReservation:0.0.1-SNAPSHOT @ C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\pom.xml.
+2018-07-14 16:43:42,607 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:43:42,607 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-14 16:43:42,622 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:43:42,622 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
+2018-07-14 16:43:43,800 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:43:43,800 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-14 16:43:43,800 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-14 16:43:43,816 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CKCC\Desktop\JavaAdvanceFinalProject\HotelReservation\src\test\resources
